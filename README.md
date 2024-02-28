@@ -66,7 +66,7 @@ If this work is useful in your research, please cite our paper.
 @inproceedings{wei2024multi,
   title={Multi-view Contrastive Learning for Medical Question Summarization},
   author={Sibo Wei, Xueping Peng, Hongjiao Guan, Lina Geng, Ping Jian, Hao Wu, Wenpeng Lu},
-  booktitle={Proceedings of the 2024 IEEE 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD)},
+  booktitle={Proceedings of the 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)},
   year={2024},
   organization={IEEE}
 }
